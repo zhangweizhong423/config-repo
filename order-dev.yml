@@ -8,4 +8,4 @@ spring:
 server:
   port: 9999666
 env:
-  dev123
+  dev
