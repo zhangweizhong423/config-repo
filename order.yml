@@ -1,0 +1,9 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: 666
+spring:
+  application:
+    name: config666
+server:
+  port: 9999666
