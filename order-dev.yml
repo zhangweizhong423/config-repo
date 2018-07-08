@@ -9,3 +9,5 @@ server:
   port: 9999666
 env:
   dev
+branch:
+  release
